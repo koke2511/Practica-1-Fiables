@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/NEBRIJA/TERCERO-24-25/SEGUNDO CUATRIMESTRE/FIABLES/PRACTICAS/PRACTICA-1/PRACTICA1.srcs/sources_1/new/debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/NEBRIJA/TERCERO-24-25/SEGUNDO CUATRIMESTRE/FIABLES/PRACTICAS/PRACTICA-1/PRACTICA1.srcs/sim_1/new/tb_debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_debouncer'

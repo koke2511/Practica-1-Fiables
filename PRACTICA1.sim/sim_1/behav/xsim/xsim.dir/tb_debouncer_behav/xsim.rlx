@@ -1,0 +1,12 @@
+
+{ 
+    crc :  478502659593478617  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_debouncer_behav xil_defaultlib.tb_debouncer" , 
+    buildDate : "Nov  8 2024" , 
+    buildTime : "22:36:57" , 
+    linkCmd : "D:\\Vivado-nuevo\\Vivado\\2024.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/tb_debouncer_behav/xsimk.exe\"   \"xsim.dir/tb_debouncer_behav/obj/xsim_0.win64.obj\" \"xsim.dir/tb_debouncer_behav/obj/xsim_1.win64.obj\" -L\"D:\\Vivado-nuevo\\Vivado\\2024.2\\lib\\win64.o\" -lxv_simulator_kernel   -lxv_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
